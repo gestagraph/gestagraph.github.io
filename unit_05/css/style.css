@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Mystery+Quest&family=Poiret+One&display=swap');
+
+header {
+  background-color: #ffed74;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+nav {
+  background-color: #e8c66a
+  border: 1px black solid;
+  padding: 20px;
+}
+
+section {
+  background-color: #ffe2b8
+  border: 1px black solid;
+  padding: 20px;
+}
+
+aside {
+  background-color: #ffc675
+  border: 1px black solid;
+  padding: 20px;
+}
+
+img {
+  background-color: #ffffff
+  border: 1px black solid;
+  padding: 20px;
+}
+
+button {
+  background-color: #000000
+  border: 1px black solid;
+  padding: 20px;
+}
+
+article {
+  background-color: #e89c6c
+  border: 1px black solid;
+  padding: 20px;
+}
+
+footer {
+  background-color: #ff957e
+  border: 1px black solid;
+  padding: 20px;
+}
+
+body {background-color: #FFFFFF; }
+#slogan {background-color: #FFFFFF
+color: #000000
+font-weight: 700;}
+h1, p {color: #000000;}
