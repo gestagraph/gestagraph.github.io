@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Mystery+Quest&family=Poiret+One&display=swap');
+
+p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #ef8354ff;
+  background-color: #073b4cff;
+  padding: 10px;
+  text-align: right;
+}
+
+#slogan {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #ef8354ff;
+  background-color:  #073b4cff;
+  text-align: right;
+  font-size: 800;
+  text-emphasis: bold;
+  font-stretch: expanded;
+}
+
+nav {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #ef8354ff;
+  background-color: #073b4cff;
+  text-align: right;
+  padding-bottom: 10px;
+  padding-right: 12 px;
+}
+
+a {
+  padding-left: 12px;
+  padding-right: 12px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:link {
+  color: #ef8354ff;
+  text-transform: uppercase;
+  text-emphasis: bold;
+  text-align: right;
+}
+
+a:visited {
+  color: #70a288ff
+}
+
+a:hover {
+  color: #fff9ecff;
+}
+
+div {
+  background-color: #fff9ecff;
+}
+
+img {
+  background-color: #fff9ecff;
+}
+
+#logoimg {
+  width:20%;
+  float:left;
+  padding-right: 10px;
+}
+
+#welcome {
+  width: 27%;
+  Float: right;
+  padding-left: 3px
+}
+
+footer {
+  clear: both;
+  background-color:  #073b4cff;
+  color:  #ef8354ff;
+  text-align: center;
+  vertical-align: bottom;
+  padding-top: 33px;
+  padding-bottom: 33px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-variant: small-caps;
+  font-size:  large;
+  min-width: 100%;
+}
+
+body {
+  background-color: #fff9ecff; 
+}
+
+
+h1, p {
+  color: #000000;
+}
